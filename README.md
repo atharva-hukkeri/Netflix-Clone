@@ -1,10 +1,10 @@
 # Netflix Clone
 ![](img/Netflix-1.png)
 
-##Features
-:pushpin: Navbar change its color when scroll
-:pushpin: Random movies in the banner when refresh
-:pushpin: Click the movie to see the trailer
+## Features 
+:pushpin: Navbar change its color when scroll<br>
+:pushpin: Random movies in the banner when refresh<br>
+:pushpin: Click the movie to see the trailer<br>
 
 # Getting Started with Create React App
 
