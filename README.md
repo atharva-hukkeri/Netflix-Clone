@@ -1,4 +1,4 @@
-# Netflix Clone
+# NETFLIX CLONE
 ![](img/Netflix-1.png)
 
 ## Features 
@@ -11,7 +11,11 @@
 ![](img/Netflix-2.png)
 ![](img/Netflix-3.png)
 
-# Getting Started with Create React App
+## Technology Stack
+:pushpin: React JS
+:pushpin: Firebase
+
+# Installation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
