@@ -5,6 +5,8 @@
 :pushpin: Navbar change its color when scroll<br>
 :pushpin: Random movies in the banner when refresh<br>
 :pushpin: Click the movie to see the trailer<br>
+:pushpin: Movies coming from the TMDB API<br>
+:pushpin: Used two packages for trailer popups(React YouTube and MovieTrailer)<br>
 
 ![](img/Netflix-2.png)
 ![](img/Netflix-3.png)
