@@ -12,8 +12,8 @@
 ![](img/Netflix-3.png)
 
 ## Technology Stack
-:pushpin: React JS
-:pushpin: Firebase
+:pushpin: React JS<br>
+:pushpin: Firebase<br>
 
 # Installation
 
